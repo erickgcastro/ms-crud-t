@@ -52,31 +52,6 @@ export default function Home() {
           />
         </div>
       </div>
-
-      {/* <div className='min-h-screen pb-[40px] bg-[#f5f5f5] '>
-         <Header>
-          <LogoutButton />
-        </Header>
-
-        <div className='flex gap-[20px]  py-[40px]  container mx-auto px-[8px] sm:px-[14px]'>
-          <div className='flex flex-col flex-1 gap-[20px]'>
-            <UserBalance />
-
-            <div className='flex-1 flex flex-col min-h-[300px] p-[20px]  bg-white rounded-md border border-gray-200'>
-              <h2 className='font-medium text-base text-defaultText/70'>Transactions</h2>
-
-              <div className='mt-[20px] flex-1'>
-                <TransactionsTable />
-              </div>
-            </div>
-          </div>
-          <div className='hidden lg:block'>
-            <PaymentSidebarForm />
-          </div>
-        </div>
-
-        
-      </div> */}
     </DashboardGuard>
   )
 }
