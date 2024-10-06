@@ -22,7 +22,7 @@ Para executar o projeto localmente em sua máquina, serão mostradas duas formas
 1. Clone o repositório do projeto para o seu ambiente de desenvolvimento:
 
    ```bash
-   git clone https://github.com/erickgcastro/payment-api.git
+   git clone https://github.com/erickgcastro/ms-crud-t.git
    ```
 
 2. Navegue até o diretório raiz do projeto;
@@ -46,7 +46,7 @@ Para executar o projeto localmente em sua máquina, serão mostradas duas formas
 1. Clone o repositório do projeto para o seu ambiente de desenvolvimento:
 
    ```bash
-   git clone https://github.com/erickgcastro/payment-api.git
+   git clone https://github.com/erickgcastro/ms-crud-t.git
    ```
 
 2. Navegue até o diretório do backend;
