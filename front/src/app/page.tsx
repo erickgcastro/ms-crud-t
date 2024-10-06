@@ -1,5 +1,3 @@
-"use client"
-
 import DashboardGuard from "@/components/guards/DashboardGuard"
 import Header from "@/components/layouts/Header"
 import LogoutButton from "@/components/LogoutButton"
