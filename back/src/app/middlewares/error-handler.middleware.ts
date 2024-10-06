@@ -7,8 +7,6 @@ export const errorHandlerMiddleware = (
   res: Response,
   __: NextFunction
 ) => {
-  console.log(err)
-
   if (err instanceof NetworkError) {
     return res.status(err.statusCode).json({
       message: err.errorMessage,
